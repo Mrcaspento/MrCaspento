@@ -1,5 +1,6 @@
 ### Hi there 👋
 📫 How to reach me: Mrcaspento@gmail.com
+Download my Resume [here](https://mrcaspento-portfolio.herokuapp.com/static/media/Matthew_Caspento(Resume).2e887343.pdf)
 <!--
 **Mrcaspento/MrCaspento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
